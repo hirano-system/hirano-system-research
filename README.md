@@ -322,3 +322,11 @@ About this repository
 This repository is a public record of research on outcome-based and knowledge-intensive software/system development.
 
 The purpose is to preserve the history of the research, organize the accumulated materials, and make the concepts available for further discussion and development.
+
+## 連絡先
+
+本研究に関するお問い合わせ、研究内容についてのご意見・ご質問などは、以下までご連絡ください。
+
+平野システム設計事務所
+
+E-mail: nh.jw.1988@gmail.com
