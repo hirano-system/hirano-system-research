@@ -29,3 +29,4 @@ Research Materials
 This website presents the background of the research, its historical development, the resulting theoretical framework, a chronological timeline, and related research materials.
 ### English Research Pages
 - [Research History — 1986 to the Present](research-history-en.md)
+- [Research Theory and Framework](research-theory-en.md)
