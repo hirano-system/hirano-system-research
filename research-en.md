@@ -31,3 +31,11 @@ This website presents the background of the research, its historical development
 - [Research History — 1986 to the Present](research-history-en.md)
 - [Research Theory and Framework](research-theory-en.md)
 - [Research Timeline — 1986 to the Present](research-timeline-en.md)
+
+- ## Contact
+
+For inquiries, questions, or comments regarding this research, please contact:
+
+Hirano System Design Office
+
+E-mail: nh.jw.1988@gmail.com
