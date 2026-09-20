@@ -4,6 +4,7 @@
 [研究年表 ― 1986年から現在まで](research-timeline.md)
 [研究資料](research-materials.md)
 [研究の背景・問題意識](research-background.md)
+[研究成果・理論体系](research-theory.md)
 本研究は、ソフトウェア・システム開発における
 
 人月計算・労働集約・多重請負型のビジネスモデルから、
