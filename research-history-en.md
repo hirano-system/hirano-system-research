@@ -108,7 +108,7 @@ At that time, the concept of success-fee-based system development and AI-based e
 
 In 2023, I presented the research again at a smaller FGN gathering for experts.
 
-By this time, the need for changes in system development and IT business models was more strongly recognized.
+By this time, the need for changes in system development and IT business models was more strongly felt.
 
 However, the research covered a wide range of subjects, including software engineering, management, accounting, contracts, organization, evaluation, AI, and risk management. The breadth and complexity of the framework made it difficult for participants to grasp the entire concept at once.
 
@@ -118,7 +118,7 @@ The Generative AI Era — A New Stage
 
 The rapid development of generative AI and AI-assisted software development has created a new environment for this research.
 
-Software can increasingly be generated, modified, tested, and operated with substantial assistance from AI.
+The rapid development of generative AI and AI-assisted software development has created a new environment for this research.
 
 This development raises fundamental questions about the traditional business model based on man-months, labor-intensive development, and multi-tier subcontracting.
 
