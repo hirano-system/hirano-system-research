@@ -42,11 +42,11 @@ contract theory
 system construction technology
 evaluation theory based on AI agents and management digital twins
 organizational theory
-Presented the framework at a large Fukuoka Growth Next conference connecting Fukuoka and Tokyo.
+Presented the framework at a large Fukuoka Growth Next conference, with the Fukuoka and Tokyo venues connected through a network.
 At that time, the concept of success-fee-based system development and AI-based evaluation was still difficult for many IT professionals to understand.
 2023 — Re-presentation to IT Experts
 Presented the research again at a smaller expert-oriented gathering at Fukuoka Growth Next.
-The need for such an approach was strongly recognized.
+The need for such an approach was strongly felt.
 However, the research covered a wide range of disciplines and remained difficult to understand as a unified framework.
 The Generative AI Era — A New Turning Point
 The rapid development of generative AI has significantly changed the possibilities of software development.
@@ -57,7 +57,7 @@ The research therefore returns to its original question: how should system devel
 
 The research began with practical experience of problems in software development and gradually expanded into a broader framework covering:
 
-Software Engineering → System Development Processes → IT Investment Evaluation → Effect Measurement → Contract Theory → Organization → Knowledge Management → AI-Based Evaluation → Success-Fee-Based System Development
+Software Engineering → System Development Processes → IT Investment Evaluation → Effect Measurement → Contract Theory → Organization → Knowledge Accumulation and Reuse → AI-Based Evaluation → Success-Fee-Based System Development
 
 The central theme has remained consistent:
 
