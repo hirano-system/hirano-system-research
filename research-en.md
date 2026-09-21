@@ -1,3 +1,11 @@
+# Hirano System Design Office
+
+## Research by Naohiko Hirano
+
+This repository presents research and historical materials
+related to system development by Naohiko Hirano
+and Hirano System Design Office since 1986.
+
 From Man-Month, Labor-Intensive, Multi-Tier Subcontracting to Success-Fee, Knowledge-Intensive System Development
 Research Overview
 
