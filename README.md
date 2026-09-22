@@ -383,13 +383,58 @@ This repository is a public record of research on outcome-based and knowledge-in
 
 The purpose is to preserve the history of the research, organize the accumulated materials, and make the concepts available for further discussion and development.
 
-## 連絡先
+🤝 共同研究・資金調達・実証実験（PoC）パートナー募集 / Call for Partners & Investment
 
-本研究に関するお問い合わせ、研究内容についてのご意見・ご質問などは、以下までご連絡ください。
+平野システム設計事務所は、30年以上にわたる「人月型・労働集約型システム開発から、成功報酬・知識集約型システム開発への転換」に関する研究成果をベースに、生成AI時代における新たなIT投資・開発モデルの社会実装を目指しています。
 
-平野システム設計事務所
+現在、一人での研究フェーズを終え、本構想を社会に実装・プロダクト化するための「協力企業」「資金調達（出資者）」「実証実験（PoC）パートナー」を広く募集しています。
 
-E-mail: nh.jw.1988@gmail.com
+■ 募集対象
+
+1.実証実験（PoC）パートナー（発注企業・DX推進企業）
+
+  1.「IT投資の効果を客観的に評価したい」「ベンダーへの丸投げや人月精算の契約に課題を感じている」経営者・DX責任者の方。
+
+  2.弊社の理論（デジタルツインやAI評価モデル）を用いた次世代のITアセスメントを共同でテストしていただける企業。
+
+2.共同開発・事業化パートナー（ITベンダー・SIer・AIスタートアップ）生成AI時代の到来により、従来の「人月ビジネス」からの脱却を迫られているシステム開発会社の経営層。
+
+  1.弊社の知財（成功報酬型プロセスの標準化マニュアル、評価ロジック）を自社のソリューションやサービスとして共同プロダクト化したい企業。
+
+  2.契約理論のスマートコントラクト化や、AIエージェントによる評価エンジンの開発に興味があるWeb3・AIエンジニア。
+
+ 3.出資・資金提供パートナー（ベンチャーキャピタル、個人投資家、公的助成金機関）
+
+3.30年の研究資産（1994年〜2022年の資料アーカイブ）をベースとした、次世代IT投資評価SaaSプラットフォームの立ち上げに関わるシード資金をご提供いただけるパートナー。
+
+  1.共同研究者（大学・研究機関・シンクタンク）
+
+  2.契約理論、ゲーム理論、デジタルツイン、ソフトウェア工学の融合による「知識集約型組織論」の学術的発展・産学連携に関心のある研究室。
+
+Call for Partners, Investment & PoC (Proof of Concept)
+
+Based on over 30 years of research on transforming system development models, Hirano System Design Office is seeking corporate partners, investors, and PoC participants to scale our next-generation IT investment framework for the Generative AI era.
+
+■ Who We Are Looking For:
+
+  1.PoC Partners: Enterprise executives seeking objective IT investment evaluation and alternative contract models.
+
+  2.Co-Development & Business Partners: IT firms and engineers interested in moving beyond man-month models and developing success-fee evaluation engines.
+
+  3.Investors & Funders:Seed-stage financial partners for our research-backed SaaS platform.
+
+  4.Academic Collaborators: Research labs interested in knowledge-intensive organizational theories.
+
+## お問い合わせ / Contact
+
+本研究成果の活用、共同事業化、出資等に関するご提案・ご質問は、以下までお気軽にご連絡ください。
+
+平野システム設計事務所 (Hirano System Design Office)
+
+Representative: 平野直彦 (Naohiko Hirano)
+
+Email: nh.jw.1988@gmail.com
+
 
 外部資料・参考記録
 本研究アーカイブに関連する過去の活動について、以下の公開資料を参考資料として掲載しています。
