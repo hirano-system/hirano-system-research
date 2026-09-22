@@ -1,5 +1,7 @@
 System Development Research by Hirano System Design Office and Naohiko Hirano
 
+[日本語版 README](README.md)
+
 This repository is a research archive that organizes and publishes research and materials on system development conducted by Hirano System Design Office and Naohiko Hirano.
 
 Based on practical experience and research in system development since 1986, this research examines the transformation from conventional man-month-based, labor-intensive system development to outcome-based, success-fee-based, and knowledge-intensive system development.
