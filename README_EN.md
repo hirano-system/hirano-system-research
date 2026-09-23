@@ -319,6 +319,17 @@ In particular, I aim to build a system development model that integrates:
 
 **AI × IT Investment Assessment × Success Fee × Knowledge-Intensive Organization**
 
+## Call for Partners, Investment & PoC (Proof of Concept)
+
+Based on over 30 years of research on transforming system development models, Hirano System Design Office is seeking **corporate partners, investors, and PoC participants** to scale our next-generation IT investment framework for the Generative AI era.
+
+### Who We Are Looking For
+
+1. **PoC Partners:** Enterprise executives seeking objective IT investment evaluation and alternative contract models.
+2. **Co-Development & Business Partners:** IT firms and engineers interested in moving beyond man-month models and developing success-fee evaluation engines.
+3. **Investors & Funders:** Seed-stage financial partners for our research-backed SaaS platform.
+4. **Academic Collaborators:** Research labs interested in knowledge-intensive organizational theories.
+
 ## Contact
 
 For proposals or questions concerning the use of these research results, joint commercialization, investment, and related matters, please feel free to contact:
