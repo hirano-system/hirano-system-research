@@ -1,4 +1,4 @@
-# System Development Research by Hirano System Design Office and Naohiko Hirano
+#  Outcome-based, Success-fee-based, and knowledge-intensive System Development Research by Hirano System Design Office and Naohiko Hirano
 
 ***[日本語版 README](README.md)*
 
