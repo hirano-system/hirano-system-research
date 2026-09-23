@@ -36,7 +36,6 @@
 - **[研究の沿革 ― 1986年から現在まで](research-history.md)**
 - **[研究年表 ― 1986年から現在まで](research-timeline.md)**
 - **[研究資料](research-materials.md)**
-- **[Research in English](research-en.md)**
 
 - ## 研究の中心的な問題意識
 
@@ -304,34 +303,6 @@ AIエージェントやデータ分析などを利用して、**IT投資やシ�
 
 資料については、可能な範囲で順次掲載します。
 
-## Research in English
-
-This research investigates the transformation of software and system development from:
-
-**man-month-based, labor-intensive and multi-tier subcontracting**
-
-to:
-
-**success-fee-based, outcome-oriented and knowledge-intensive system development.**
-
-The research focuses on:
-
-- **Outcome-based software development**
-- **IT investment assessment**
-- **Software engineering**
-- **Contract theory**
-- **Knowledge-intensive organizations**
-- **AI-based evaluation**
-- **Digital twins**
-- **Knowledge creation**
-- **Organizational transformation**
-
-The central question is:
-
-**How can software and IT development move from selling development labor to creating, measuring and sharing customer value?**
-
-The research began with practical experience in Japanese system development in the 1980s and developed through research conducted from the early 1990s onward.
-
 ## 今後の研究
 
 今後は、これまでの研究成果を整理し、
@@ -345,12 +316,6 @@ The research began with practical experience in Japanese system development in t
 **AI × IT投資評価 × 成功報酬 × 知識集約型組織**
 
 を統合したシステム開発モデルの構築を目指します。
-
-## About this repository
-
-This repository is a public record of research on outcome-based and knowledge-intensive software/system development.
-
-The purpose is to preserve the history of the research, organize the accumulated materials, and make the concepts available for further discussion and development.
 
 ## 🤝 共同研究・資金調達・実証実験（PoC）パートナー募集 / Call for Partners & Investment
 
