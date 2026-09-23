@@ -1,201 +1,319 @@
-Research History — 1986 to the Present
-1986 — The Beginning of the Research
+# Research History
 
-The starting point of this research was practical experience in system development in 1986.
+## Introduction
 
-While working on the design and construction of a system for a securities company, I experienced many problems in system development. Development often relied on large numbers of people and intensive manual effort. In some cases, I worked for as long as three days without sleep.
+This research began with the question of whether software development could be transformed from a business in which customers are charged according to the number of person-months invested into a business evaluated based on the results and value created for the customer.
 
-These experiences led me to question whether system development should continue to depend primarily on labor and the individual abilities of engineers.
+Since then, the scope of the research has expanded to include software development processes, software engineering, contracts, IT investment evaluation, organizations, knowledge creation, and AI-based evaluation. The research has focused on developing methods for realizing success-fee software development.
 
-1987–1990 — Introduction of Software Engineering
+## 1986 — Awareness of Problems in System Development
 
-From 1987 to 1990, while working as a project leader at Fujitsu on systems for Yamae Hisano, I observed that system development depended heavily on individual skills.
+In 1986, I was involved in the design and development of systems for a securities company.
 
-Planning and estimation were often performed without sufficiently clear and objective foundations.
+At that time, system development sometimes relied heavily on a "human-wave" approach, in which large numbers of people were mobilized to solve problems. Projects were sometimes completed through long working hours.
 
-I therefore introduced the concepts and practices of American software engineering into system development. I was asked to research and implement software engineering methods, and I also had the opportunity to teach these ideas to a researcher from the Chinese Academy of Sciences who had been invited to Japan.
+These experiences led me to ask:
 
-This experience became an important foundation for my later research into system development processes.
+* Why does system development require large numbers of people?
+* Why is it difficult to manage development processes rationally?
+* Why do similar problems continue to occur repeatedly?
 
-1991–1994 — Research into System Development Processes
+These questions became the starting point for my subsequent research.
 
-From 1991 onward, I continued researching system development processes across different manufacturers and organizations.
+## 1987–1990 — Encounter with Software Engineering
 
-At that time, software engineering had not yet been sufficiently researched or implemented in many development environments. System development continued to depend heavily on individual capabilities and multi-tier subcontracting.
+From around 1987 to 1990, I worked as a project leader at a major Japanese computer manufacturer, where I was involved in system development covering hardware, networks, and software.
 
-There were also cases in which systems had been constructed but did not operate as expected.
+In actual development projects, planning and estimation sometimes depended heavily on individual experience and ability.
 
-I continued studying how system development should be planned, designed, constructed, tested, implemented, and operated as an integrated process. This research was organized into a framework by 1994.
+I therefore studied software engineering approaches developed in the United States and applied them to actual system development.
 
-During this period, I also became a part-time lecturer at Kyushu Electric Technical College.
+Through this experience, I recognized the importance of systematizing system development not merely as a matter of individual experience, but as a combination of:
 
-1995–2001 — Research into IT Investment and Results
+* Methodologies
+* Processes
+* Technologies
 
-From 1995 to 2001, I moved from the manufacturer side to the system planning side at the headquarters of Nishi-Nippon Railroad (Nishitetsu).
+I also subsequently had opportunities to teach what I had learned about software engineering.
 
-At that time, I recognized that system proposals could not be accepted simply by explaining what system would be built. It was necessary to explain the expected results in numerical terms.
+## 1991–1994 — Full-Scale Research into System Development
 
-While planning a transportation IC card system, which later became nimoca, I began researching methods for evaluating IT investment and its effects.
+From the beginning of the 1990s, I began systematic research into system development.
 
-The research expanded across several fields, including:
+The research expanded beyond programming techniques to include:
 
-Management
-Industrial engineering
-Accounting
-Finance
-Information technology
-Artificial intelligence
+* Methodologies
+* Tools
+* Reengineering
+* Reusability
+* Human resources
+* Management
 
-My supervisor encouraged me to study management and to visit actual business sites in order to understand how systems affected business operations.
+At the time, development projects faced problems such as dependence on individual capabilities, division of work through multiple layers of subcontracting, and fragmentation of development processes.
 
-The result of this research was the concept of a success-fee-based software development business. At this stage, however, AI-based evaluation itself had not yet been incorporated into the final business model.
+I also experienced situations in which systems had been built but did not actually operate as expected.
 
-2001 — Presentation of the Success-Fee-Based Software Development Business
+These experiences led me to conclude that the various stages of system development should not be considered separately. Instead, the entire process should be viewed as one integrated process:
 
-After leaving Nishitetsu in 2001, I presented the concept of a success-fee-based software development business at the Fukuoka Venture Market and the FVM “Nigetsukai” business presentation.
+**from planning and design, through development and testing, to implementation and operation.**
 
-The concept was also presented to an organization related to the Small and Medium Enterprise Agency.
+## 1994 — Organizing the Research
 
-At that time, Internet infrastructure, data-center environments, and related technologies were not yet sufficiently mature to make practical implementation easy. I therefore felt that the concept was still ahead of its time.
+In 1994, I prepared a document entitled **"Toward the Best Systems Engineering."**
 
-At the same time, I recognized that changing from man-month-based development to success-fee-based development could not be achieved simply by changing the contract.
+The document argued that achieving shorter development periods, lower costs, higher quality, and higher productivity requires more than programming techniques. It requires improvement of the overall approach to system development.
 
-It would require changes throughout the entire system development process, including:
+In particular, the document examined development time, cost, quality, documentation, maintainability, and other issues, and organized systems engineering concepts for improving them.
 
-Planning
-Design
-Manufacturing
-Testing
-Implementation
-Operation
-Effect measurement
-Evaluation
+The major elements identified were:
 
-In particular, methods for measuring and evaluating the actual effects of IT investment remained a major research challenge.
+* Methodology
+* Tools
+* Reengineering
+* Reusability
+* Human resources
+* Management
 
-Research therefore continued from 2001 through 2018.
+Regarding methodology, emphasis was placed on organizing the tasks and ways of thinking involved in system development and guiding developers through a structured process.
 
-2017 — Reconsidering Software Quality
+The use of computer-aided development technologies such as CASE tools was also examined. By improving the management and checking of design information and supporting program development, these technologies were expected to shorten development periods, reduce costs, and improve quality.
 
-In 2017, I was involved in quality improvement work for a major Japanese software company following municipal mergers.
+Regarding reengineering, the research focused on analyzing existing systems, clarifying their structures and design information, improving maintainability, and facilitating migration to new technologies.
 
-This experience led me to reconsider the actual state of software engineering in Japan.
+Another important area was the reuse of development artifacts. Reusing prototypes, data models, system structures, program code, and other artifacts could improve both productivity and quality.
 
-I found that software engineering methods were still not sufficiently adopted in the development process, while the quality of software manufacturing was often left to subcontractors.
+For human resources, the roles of professionals with different areas of expertise—such as project managers, system analysts, and system engineers—were organized and examined.
 
-This experience reinforced the need to reconsider not only development technology, but also contracts, organizations, responsibility, and quality management.
+Management was positioned as the function that integrates and coordinates these elements.
 
-2018 — Completion of the Theoretical Framework
+The 1994 research therefore viewed system development not simply as work performed by deploying personnel, but as an activity that combines methodologies, tools, knowledge, reuse, human resources, and management to improve productivity, quality, and cost efficiency.
 
-By 2018, I had organized a broader theoretical framework for realizing success-fee-based system development.
+This perspective became a foundation for the subsequent development of research into system development methodologies, IT investment evaluation, and, ultimately, the **"Success-Fee Software Development Business"** proposed in 2001.
 
-The framework included:
+## 1995–2001 — Expansion into IT Investment Evaluation
 
-System development process theory
-Contract theory
-Construction technology
-AI-agent-based evaluation
-Management digital twins
-Organization theory
+From 1995 onward, I was involved on the headquarters side of a major railway company in planning information strategies for railways, buses, and group companies using IC card technology.
 
-These areas were studied as interconnected elements rather than as separate technical subjects.
+In strategic planning, it was necessary not only to explain why a system should be introduced, but also to explain what benefits would be generated by the IT investment and how the investment would be recovered.
 
-In 2018, I presented this framework at a large Fukuoka Growth Next (FGN) conference.
+This experience led me to strongly recognize that when considering system development, it is necessary to examine not only **how to build a system**, but also:
 
-At that time, the concept of success-fee-based system development and AI-based evaluation was still difficult for many participants to understand. The technology and business environment had not yet reached the stage at which the concept could be readily accepted.
+* What economic effects the system will create for the company
+* How the investment will generate returns
+* Whether the system can create new business opportunities
 
-2023 — Re-presentation at an Expert Gathering
+During this period, my research therefore expanded beyond software engineering to include:
 
-In 2023, I presented the research again at a smaller FGN gathering for experts.
+* Management
+* Strategic management
+* Marketing
+* Industrial engineering
+* Accounting
+* Finance
+* Data science
+* Artificial intelligence
 
-By this time, the need for changes in system development and IT business models was more strongly felt.
+Through involvement in planning initiatives such as transportation IC cards, I came to believe that evaluating the effects of IT investment requires an integrated perspective combining computer technology with management, accounting, finance, business analysis, and data analysis.
 
-However, the research covered a wide range of subjects, including software engineering, management, accounting, contracts, organization, evaluation, AI, and risk management. The breadth and complexity of the framework made it difficult for participants to grasp the entire concept at once.
+This practical experience and research subsequently led to research into IT investment evaluation and success-fee software development.
 
-This experience suggested that the research needed to be reorganized and communicated in a clearer and more accessible form.
+## 2001 — Success-Fee Software Development Business
 
-The Generative AI Era — A New Stage
+Against this background of practical experience and research, I left the railway company and, in 2001, developed and presented a business concept called the **"Success-Fee Software Development Business."**
 
-The rapid development of generative AI and AI-assisted software development has created a new environment for this research.
+In conventional person-month-based software development, costs are calculated primarily according to the number of people involved and the development period.
 
-The rapid development of generative AI and AI-assisted software development has created a new environment for this research.
+In a success-fee model, by contrast, the focus is placed on the results and benefits generated for the customer by the system.
 
-This development raises fundamental questions about the traditional business model based on man-months, labor-intensive development, and multi-tier subcontracting.
+In other words:
 
-The research proposes that the transition should not be understood simply as replacing human labor with AI.
+> **"Instead of selling person-months, create results."**
 
-Rather, it requires a broader transformation:
+Under this concept, a software development company would not simply build a system according to specifications. It would take responsibility for outcomes such as:
 
-from personnel-based development → to knowledge-intensive development → to development centered on customer results and business value.
+* Customer profitability
+* Investment effectiveness
+* Quality
+* Cost
 
-In this model, engineers and AI technologies work together to identify problems, design solutions, develop systems, operate them, and evaluate their results.
+The aim was therefore to transform software development from a **"process for building systems"** into a **"process for building businesses."**
 
-The role of the system development company therefore changes from supplying development personnel to creating measurable value together with the customer.
+It also sought to shift the basis of project management from the amount of work measured in person-months to the effects and value created for the customer.
 
-From Man-Months to Customer Value
+In 2001, I presented this business concept at FVM (Fukuoka Venture Market), the February Meeting organized by the Fukuoka Economic Association, and the Small and Medium Enterprise Agency's affiliated organization, the Small and Medium Enterprise Business Support organization, among other venues.
 
-The central theme of this research has remained consistent since 1986.
+At that time, however, the environment surrounding Internet connectivity, data centers, system development platforms, artificial intelligence, and industrial engineering had not matured to the level seen today. There were therefore significant environmental and technological barriers to immediate implementation.
 
-The question is how system development can move beyond a business model in which revenue is primarily determined by the number of people and the amount of development time.
+Rather than rushing into commercialization, I continued the research.
 
-The research instead seeks a model in which:
+## 2001–2018 — Research toward Realizing Success-Fee Software Development
 
-IT investment is planned according to expected business results.
-System development is managed as an integrated process.
-Risks are identified and managed throughout the process.
-Results are measured and evaluated.
-Contracts are connected with customer value and results.
-Knowledge is accumulated, shared, and reused.
-Organizations are designed around outcomes and responsibility.
-AI is used as part of the evaluation and development process.
+Realizing success-fee software development requires more than simply changing the contract to a success-fee arrangement.
 
-The objective is to establish a system development business that is knowledge-intensive, outcome-oriented, and capable of creating value together with customers.
+To create results for customers, the following areas need to be considered as an integrated whole:
 
-1986–Present
+* Planning
+* Requirements definition
+* Design
+* Development
+* Testing
+* Implementation
+* Operation
+* Measurement of outcomes
+* IT investment evaluation
 
-The research that began with practical problems in system development in 1986 has therefore developed over several stages:
+Furthermore, the research examined the need to incorporate:
 
-1986
-Practical experience and recognition of problems with labor-intensive development
+* New approaches to contract theory
+* Profit sharing
+* Risk management
+* Organization
+* Human resources
+* Knowledge management
+* Integration of general accounting, management accounting, finance, and innovation accounting
+* The relationship between AI agents and ontologies
+* Automatic collection and visualization of management information through digital twins
 
-↓
+One of the most important issues became:
 
-1987–1990
-Introduction and practice of software engineering
+> **"How can the results generated by an IT investment be measured and evaluated?"**
 
-↓
+## 2018 — Presentation of a Systematized Theory and Methodology for Success-Fee Software Development
 
-1991–1994
-Research into system development processes
+In 2018, I presented the results of my research at FGN (Fukuoka Growth Next) in Fukuoka.
 
-↓
+The presentation included:
 
-1995–2001
-Research into IT investment evaluation and business results
+* System development process theory
+* Contract theory and game theory to prevent asymmetry of interests between clients and software providers
+* System development technologies
+* IT investment evaluation
+* AI-based evaluation
+* AI agents, ontologies, and data science
+* Automatic collection and visualization of management information through digital twins
+* Risk management, new approaches to finance, and organizational theory including human resources
+* Knowledge-creating organizational theory for developing human resources
 
-↓
+Rather than treating these as separate research topics, I presented them as an integrated framework for creating results for customers and promoting growth for customers, development organizations, and ultimately the region.
 
-2001
-Presentation of the success-fee-based software development business
+## 2022 — Organization as a Business Plan
 
-↓
+On March 24, 2022, I organized the business concept as:
 
-2001–2018
-Continued research into process, contracts, evaluation, technology, and organization
+**"Success-Fee System Development / IT Investment Evaluation (Assessment) Business Plan."**
 
-↓
+The subtitle was:
 
-2017–2018
-Reassessment of software quality and completion of the theoretical framework
+**"From Person-Month-Based and Labor-Intensive Operations to Knowledge-Intensive Operations."**
 
-↓
+At this stage, the concept was organized as a business model combining success-fee system development with IT investment evaluation.
 
-2023
-Re-presentation at an expert gathering
+I considered that two related businesses could be established. One reason was the need for an independent evaluation function—similar to a second opinion—that could assess IT investments from a third-party perspective.
 
-↓
+There were three major reasons for this approach.
 
-Present
-Research in the era of generative AI and knowledge-intensive system development
+First, it would clarify a company's general accounting, management accounting, finance, and innovation accounting.
 
-The research continues with the aim of connecting system development technology, business management, evaluation, contracts, organization, risk management, and AI into an integrated framework for creating customer value.
+Second, in order to enable AI agents to function effectively, it would be necessary to identify the organization's ontology—that is, both visible elements such as people, equipment, and physical assets, and invisible elements such as processes and strategies—and clarify the relationships among them.
+
+Third, digital twins could be used to automatically collect and visualize management information.
+
+## From Person-Month-Based Development to Knowledge-Intensive Development
+
+This research does not regard person-month-based system development simply as a matter of pricing.
+
+In a person-month-based model, revenue is strongly linked to the number of personnel assigned and the amount of time they work.
+
+As a result, increasing the number of projects can tend to require increasing the number of personnel, while it can be difficult to accumulate and reuse the knowledge and experience of the development organization.
+
+By contrast, a knowledge-intensive model emphasizes:
+
+> **Accumulating knowledge, methodologies, technologies, and evaluation capabilities, and reusing them to create high added value.**
+
+Achieving this transformation requires changes not only in technology but also in the organization itself.
+
+## What Is Required for the Transition to a Success-Fee Model
+
+Success-fee software development also changes the relationship between customers and developers.
+
+In a conventional model, the relationship tends to be:
+
+**Customer → Development Company → Development Work**
+
+In a success-fee model, a different relationship is required:
+
+**Customer and developer jointly pursue outcomes.**
+
+This requires the following to be clarified in advance:
+
+* How outcomes will be defined
+* How outcomes will be measured
+* How the contribution of IT will be evaluated
+* Who will bear the risks
+* How the resulting benefits will be allocated
+* How the contract will be designed
+
+## Development in the Era of Generative AI
+
+In recent years, software development technologies using generative AI have advanced rapidly.
+
+This change creates the possibility of achieving high development capabilities with small teams by using AI, rather than relying solely on increasing the number of people to increase development capacity.
+
+Furthermore, AI can potentially be used not only for software production but throughout the broader process, including:
+
+* Customer problem analysis
+* System planning
+* Design
+* Software generation
+* Testing
+* Operation
+* Data analysis
+* IT investment evaluation
+* Outcome measurement
+
+This creates the possibility of realizing in practice the transformation that has been studied for many years:
+
+**from person-month-based and labor-intensive development to outcome-oriented and knowledge-intensive development.**
+
+## Current Research Issues
+
+A key issue in my current research is to translate the theories and methodologies accumulated over many years into mechanisms that can actually be used in practice.
+
+In particular, an important research theme is how to integrate:
+
+**AI × IT Investment Evaluation × Success-Fee Models × Knowledge-Intensive Organizations**
+
+Ultimately, the objective is not simply to evaluate whether a system has been built, but to evaluate:
+
+> **What results have been created for the customer through the system.**
+
+The research also aims to develop a framework for evaluating the value of the organization as a whole, including its people, and for enabling organizational collaboration and sustainable growth.
+
+## Research Timeline
+
+| Period    | Major Event                                                                                                                                      |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1986      | Experienced problems such as reliance on large numbers of personnel and long working hours in system development                                 |
+| 1987–1990 | Studied software engineering and applied it to actual system development                                                                         |
+| 1991–1994 | Began systematic research into system development and organized the research framework                                                           |
+| 1994      | Organized the initial research materials                                                                                                         |
+| 1995–2001 | Expanded research into system planning and IT investment evaluation                                                                              |
+| 2001      | Presented the concept of a Success-Fee Software Development Business                                                                             |
+| 2001–2018 | Continued research toward realizing success-fee software development                                                                             |
+| 2017      | Reconfirmed the importance of software engineering and development methodologies through participation in a software quality improvement project |
+| 2018      | Systematized and presented the theory and methodology                                                                                            |
+| 2022      | Organized the Success-Fee System Development / IT Investment Evaluation Business Plan                                                            |
+| Present   | Developing the concept toward outcome-oriented, knowledge-intensive system development using generative AI                                       |
+
+## Research Materials
+
+In the future, I plan to organize this page so that the original materials and research results from each period can be referenced.
+
+In particular, I plan to organize and publish the following materials so that their relationship to the overall research history can be understood:
+
+* Research materials from 1994
+* Materials on the Success-Fee Software Development Business from 2001
+* Research results from 2018
+* The business plan from 2022
+
+Before publishing the original materials, I will review them to ensure that they do not contain personal information belonging to third parties or other information that should not be publicly disclosed.
