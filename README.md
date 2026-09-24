@@ -296,6 +296,8 @@ AIエージェントやデータ分析などを利用して、**IT投資やシ�
 - **2018年**　研究成果・発表資料
   - [成功報酬型システム開発事業要約（2018年3月14日）](成功報酬型システム開発事業要約２０１８年３月１４日.pdf)
   - [成功報酬型システム開発事業（2018年3月14日）](成功報酬型システム開発事業２０１８年３月１４日.pdf)
+  - [Success-Based System Development Business Summary — March 14, 2018](Success-Based-System-Development-Business-Summary-2018-03-14-English.pdf)
+  - [Success-Based System Development Business Plan — March 14, 2018](Success-Based-System-Development-Business-Plan-2018-03-14-English-Japanese-Reference.pdf)
 - **2022年**　成功報酬型システム開発／IT投資評価事業プラン
   - [成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約（2022年3月24日）](成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約２０２２年３月２４日.pdf)
   - [成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（2022年3月24日）](成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（２０２２年３月２４日）.pdf) 
