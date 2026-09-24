@@ -28,16 +28,6 @@ Based on practical experience and research in system development since 1986, thi
 * **Integration of AI agents and digital twins**
 * **Knowledge creation and organizational transformation for human development**
 
-## Research Archive
-
-This repository organizes research conducted from 1986 to the present, including:
-
-* **Research background and problem awareness**
-* **Research results and theoretical framework**
-*  [**Research history — 1986 to the present**](research-history-en.md)
-* **Research chronology — 1986 to the present**
-* **Research materials**
-
 ## Central Research Problem
 
 This research considers system development not simply as **"software manufacturing,"** but as an activity that creates changes in customers' management and business operations and measures and evaluates the resulting outcomes.
