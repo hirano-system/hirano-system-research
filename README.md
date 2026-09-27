@@ -287,10 +287,10 @@ AIエージェントやデータ分析などを利用して、**IT投資やシ�
 
 ### 主な資料
 
-  * 1994年　システム開発研究資料
+- **1994年**　システム開発研究資料
     * [日本語版 PDF](０１最高のシステムエンジニアリングを目指して１９９４_正しい向き.pdf)
     * [English Edition PDF](1994_Systems_Engineering_Toward_Excellence_English_Edition_FINAL.pdf)
-  * 2001年　成功報酬型ソフト開発事業
+- **2001年**　成功報酬型ソフト開発事業
     * [日本語版 PDF](０２成功報酬型システム開発事業プラン２００１_正しい向き.pdf)
     * [English Edition PDF](Success_Fee_Software_Development_Business_Plan_2001_English_with_Original_Figures.pdf)
 - **2018年**　研究成果・発表資料
@@ -300,7 +300,9 @@ AIエージェントやデータ分析などを利用して、**IT投資やシ�
   - [Success-Based System Development Business Plan — March 14, 2018](Success-Based-System-Development-Business-Plan-2018-03-14-English-Japanese-Reference.pdf)
 - **2022年**　成功報酬型システム開発／IT投資評価事業プラン
   - [成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約（2022年3月24日）](成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約２０２２年３月２４日.pdf)
-  - [成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（2022年3月24日）](成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（２０２２年３月２４日）.pdf) 
+  - [成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（2022年3月24日）](成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（２０２２年３月２４日）.pdf)
+  - [Success-Based System Development and IT Investment Assessment — Summary (March 24, 2022)](Success-Based-System-Development-and-IT-Investment-Assessment__Summary_2022-03-24_EN.pdf)
+  - [Success-Based System Development and IT Investment Assessment — Business Plan (March 24, 2022)](Success-Based-System-Development-and-IT-Investment-Assessment_2022-03-24_EN.pdf)
 - **その他**　研究の過程で作成した資料
 
 資料については、可能な範囲で順次掲載します。
