@@ -292,7 +292,7 @@ AIエージェントやデータ分析などを利用して、**IT投資やシ�
     * [English Edition PDF](1994_Systems_Engineering_Toward_Excellence_English_Edition_FINAL.pdf)
   * 2001年　成功報酬型ソフト開発事業
     * [日本語版 PDF](０２成功報酬型システム開発事業プラン２００１_正しい向き.pdf)
-    * [English Edition PDF](2001_Performance_Based_Software_Development_Business_Plan_English_Edition.pdf)
+    * [English Edition PDF](Success_Fee_Software_Development_Business_Plan_2001_English_with_Original_Figures.pdf)
 - **2018年**　研究成果・発表資料
   - [成功報酬型システム開発事業要約（2018年3月14日）](成功報酬型システム開発事業要約２０１８年３月１４日.pdf)
   - [成功報酬型システム開発事業（2018年3月14日）](成功報酬型システム開発事業２０１８年３月１４日.pdf)
