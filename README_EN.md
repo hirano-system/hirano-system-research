@@ -284,15 +284,31 @@ Therefore, realizing success-fee-based system development requires an integrated
 
 ## Research Materials
 
-This repository will organize and publish materials created during the research process in **chronological and thematic order**.
+This repository will organize and publish materials created during the research process in chronological and thematic order.
 
 ### Major Materials
 
-* **1994 — System Development Research Materials**
-* **2001 — Success-Fee-Based Software Development Business**
-* **2018 — Research Results and Presentation Materials**
-* **2022 — Success-Fee-Based System Development / IT Investment Assessment Business Plan**
-* **Other materials created during the research process**
+- **1994** — System Development Research Materials
+  - [English Edition PDF](1994_Systems_Engineering_Toward_Excellence_English_Edition_FINAL.pdf)
+  - [日本語版 PDF](０１最高のシステムエンジニアリングを目指して１９９４_正しい向き.pdf)
+
+- **2001** — Success-Fee-Based Software Development Business
+  - [English Edition PDF](Success_Fee_Software_Development_Business_Plan_2001_English_with_Original_Figures.pdf)
+  - [日本語版 PDF](０２成功報酬型システム開発事業プラン２００１_正しい向き.pdf)
+
+- **2018** — Research Results and Presentation Materials
+  - [Success-Based System Development Business Summary — March 14, 2018](Success-Based-System-Development-Business-Summary-2018-03-14-English.pdf)
+  - [Success-Based System Development Business Plan — March 14, 2018](Success-Based-System-Development-Business-Plan-2018-03-14-English-Japanese-Reference.pdf)
+  - [成功報酬型システム開発事業要約（2018年3月14日）](成功報酬型システム開発事業要約２０１８年３月１４日.pdf)
+  - [成功報酬型システム開発事業（2018年3月14日）](成功報酬型システム開発事業２０１８年３月１４日.pdf)
+
+- **2022** — Success-Based System Development / IT Investment Assessment Business Plan
+  - [Success-Based System Development and IT Investment Assessment — Summary (March 24, 2022)](Success-Based-System-Development-and-IT-Investment-Assessment__Summary_2022-03-24_EN.pdf)
+  - [Success-Based System Development and IT Investment Assessment — Business Plan (March 24, 2022)](Success-Based-System-Development-and-IT-Investment-Assessment_2022-03-24_EN.pdf)
+  - [成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約（2022年3月24日）](成功報酬型システム開発事業とＩＴ投資アセスメント（評価）事業要約２０２２年３月２４日.pdf)
+  - [成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（2022年3月24日）](成功報酬型システム開発とＩＴ投資評価（アセスメント）事業（２０２２年３月２４日）.pdf)
+
+### Other materials created during the research process
 
 Materials will be published progressively as far as possible.
 
