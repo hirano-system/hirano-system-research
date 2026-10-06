@@ -119,11 +119,10 @@ Hirano System Design Office
 
 Research on system development and IT investment since 1986.
 
-Languages
+## Languages
 
-日本語
-
-English
+- [日本語](index-ja.md)
+- English
 
 Source Repository
 
