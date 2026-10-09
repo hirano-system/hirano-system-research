@@ -1,3 +1,4 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
@@ -5,4 +6,13 @@
     <loc>https://hirano-system.github.io/hirano-system-research/</loc>
   </url>
 
+  <url>
+    <loc>https://hirano-system.github.io/hirano-system-research/index-ja.html</loc>
+  </url>
+
+  <url>
+    <loc>https://hirano-system.github.io/hirano-system-research/README_EN.html</loc>
+  </url>
+
 </urlset>
+```
