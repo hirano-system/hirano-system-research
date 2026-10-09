@@ -1,6 +1,7 @@
 #  Outcome-based, Success-fee-based, and knowledge-intensive System Development Research by Hirano System Design Office and Naohiko Hirano
 
-***[日本語版 README](https://hirano-system.github.io/hirano-system-research/)*
+***[日本語版 README](https://hirano-system.github.io/hirano-system-research/index-ja.html)*
+
 
 This repository is a research archive that organizes and publishes research and materials on outcome-based, success-fee-based, and knowledge-intensive system development conducted by **Hirano System Design Office** and **Naohiko Hirano**.
 
